@@ -1,3 +1,0 @@
-# myPlaid
-Testing application
-again
